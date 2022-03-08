@@ -6,7 +6,7 @@ const CONFIG = {
     title: 'Mong mình sẽ gặp nhau vào một ngày xớm nhấttt',
     desc: 'Pạn có iu mình hoq zạa ',
     btnYes: 'Cók',
-    btnNo: 'Hong nka pạni',
+    btnNo: 'Hong nka pạn!',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
