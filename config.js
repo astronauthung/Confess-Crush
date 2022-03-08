@@ -6,12 +6,12 @@ const CONFIG = {
     title: 'Mong mình sẽ gặp nhau vào một ngày xớm nhấttt',
     desc: 'Pạn có iu mình hoq zạa ',
     btnYes: 'Cók',
-    btnNo: 'Hong pé ui',
+    btnNo: 'Hong nka pạni',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà. Yêu bạn nhiềuuuuu 😘',
+    mess: 'Mình biết mà, bạn hay zậy quớ ờ =)) . Yêu bạn nhiềuuuuu 😘',
     messDesc: 'Mụt ngày đẹp trời mình sẽ đón pạn ik chơiii',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/nguyenhung409/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnAccept: 'Okiiiii lun nò',
+    messLink: 'https://m.me/nguyenhung409/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
